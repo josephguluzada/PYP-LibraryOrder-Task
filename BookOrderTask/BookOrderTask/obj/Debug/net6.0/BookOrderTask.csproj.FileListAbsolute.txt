@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\bin\Debug\net6.0\BookOrderTask.exe
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\bin\Debug\net6.0\BookOrderTask.deps.json
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\bin\Debug\net6.0\BookOrderTask.runtimeconfig.json
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\bin\Debug\net6.0\BookOrderTask.dll
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\bin\Debug\net6.0\BookOrderTask.pdb
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.AssemblyInfo.cs
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.dll
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\refint\BookOrderTask.dll
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.pdb
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\BookOrderTask.genruntimeconfig.cache
+C:\Users\asus\Desktop\BookOrderTask\BookOrderTask\obj\Debug\net6.0\ref\BookOrderTask.dll
